@@ -1,0 +1,19 @@
+{
+  "id": 5192,
+  "name": "Eurocrypt 2021",
+  "shortName": "Eurocrypt 2021",
+  "dates": "April 25-30, 2021",
+  "location": "Trondheim, Norway",
+  "year": 2021,
+  "startdate": "2021-04-25",
+  "enddate": "2021-04-30",
+  "submitdate": null,
+  "city": "Trondheim",
+  "country": "Norway",
+  "notificationdate": null,
+  "latitude": 10.402075027624,
+  "longitude": 63.4399313,
+  "eventtype": "eurocrypt",
+  "_comment": "Be careful editing this file. It must be valid JSON.",
+  "_source": "https://www.iacr.org/cryptodb/pc"
+}
