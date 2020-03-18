@@ -32,8 +32,11 @@
       <p>
         Affiliated events can be 1-2 days long.
         Proposals for events should be submitted by email to the workshop
-        chair at <span class="editMe">***insert email address of affiliated workshops person***
-        by January 31st, 2020 (23:59 UTC) </span>.
+        chair at
+           <a href="mailto:eurocrypt2021workshops@iacr.org">
+           eurocrypt2021workshops@iacr.org </a>
+        
+        by January 31st, 2021 (23:59 CET).
       </p>
       <p>
 	The workshop organizers will provide for each event:
@@ -104,8 +107,8 @@
       </ol>
       <p>
         A file (preferably in PDF format) containing all the above
-        information should be sent to
-<span class="editMe">insert email address of workshops chair</span>.
+        information should be sent to <a href="mailto:eurocrypt2021workshops@iacr.org">
+           eurocrypt2021workshops@iacr.org </a>
         by the submission deadline.
       </p>
 
@@ -117,7 +120,8 @@
             </h4>
             <div class="customCardRow row">
               <h6 class="dateTitle col-6 col-md-5">
-                <span class="editMe">January 31, 2020</span>
+               <!-- <span class="editMe">January 31, 2020</span> -->
+               TBA
               </h6>
               <p class="col-6 col-md-7">
                 Submission deadline for proposals
@@ -125,7 +129,8 @@
             </div>
             <div class="customCardRow row">
               <h6 class="dateTitle col-6 col-md-5">
-                <span class="editMe">February 20, 2020</span>
+                <!-- <span class="editMe">February 20, 2020</span> -->
+                TBA
               </h6>
               <p class="col-6 col-md-7">
                 Notification of decision
@@ -152,7 +157,7 @@
             <h4 class="customCardHeader">
               For any questions please contact the workshop chair:
             </h4>
-            <span class="editMe">
+           <!-- <span class="editMe">
               <address class="text-center">
               Carmit Hazay<br>
               Bar-Ilan University<br/>
@@ -160,6 +165,13 @@
               <tt>crypto2020workshopchair@gmail.com</tt>
               </address>
             </span>
+            -->
+              <address class="text-center">
+              Jiaxin Pan<br>
+              Norwegian University of Science and Technology<br/>
+              Norway<br/>
+              <tt>eurocrypt2021workshops@iacr.org</tt>
+              </address>
           </article>
         </div>
       </div>

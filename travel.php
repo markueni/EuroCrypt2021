@@ -75,12 +75,12 @@
            <p> By plane:
             Trondheim airport (Trondheim lufthavn) is located in Værnes, 30 minutes north of the city.
             To reach Trondheim from the airport, you can take the express bus that runs every 10-15 minutes and takes 30-40 minutes to travel.More information about bus can be found <a href="https://www.vaernesekspressen.no/"> here </a>.
-            You can also take a taxi, for instance via <a href="https://trondertaxi.no/"></a> and <a href="https://www.taxifix.no/booking">here</a>.
+            You can also take a taxi, for instance via <a href="https://trondertaxi.no/">here</a> or <a href="https://www.taxifix.no/booking">there</a>.
             </p>
             
             <p>
             By train:
-            Trondheim train station (Trondheim sentralstasjon) is close to the city center, 10 mins walk. There are few trains from Oslo to Trondheim everyday, and you can enjoy scenic views during the journey. More information can be found <a href="https://www.vy.no/">here</a>.
+            Trondheim train station (Trondheim sentralstasjon) is close to the city center, 10 mins walk. There are few trains from Oslo to Trondheim everyday, and you can enjoy scenic views during the journey. More information can be found <a href="https://www.vy.no/en">here</a>.
             </p>
             
             <p>
@@ -92,14 +92,15 @@
             By car:
             If you drive to Trondheim, then just reach the E6 and at one point, you will cross Trondheim. Some information <a href="https://en.wikivoyage.org/wiki/E6_through_Sweden_and_Norway">here </a>.
             International car rental companies are based in Norway, to cite a few Hertz, Avis, Europcar, Sixt. Please check that your driving license is accepted in Norway.
-            Trondheim has several car parks. More information here <a href="https://trondheimparkering.no/english">here</a>.
+            Trondheim has several car parks. More information <a href="https://trondheimparkering.no/english">here</a>.
             </p>
             
             <p>
             During your stay:
-            To commute inside the city, check the bus company <a href="https://www.atb.no/">AtB</a>. Single tickets can be purchased on the application of the bus company (<a href="https://www.atb.no/en/atb-mobillett/">AtB</a>) or on the machines diplayed at some bus stops. Note that single tickets purchased on board are more expensive! More information <a href="https://www.atb.no/en/ticket/">here</a>.
+            To commute inside the city, check the bus company <a href="https://www.atb.no/en/">AtB</a>. Single tickets can be purchased on the application of the bus company (<a href="https://www.atb.no/en/atb-mobillett/">AtB</a>) or on the machines diplayed at some bus stops. Note that single tickets purchased on board are more expensive! More information <a href="https://www.atb.no/en/ticket/">here</a>.
             </p>
-            If any questions or problems, please contact name@namebis.org  
+            If any questions or problems, please contact <a href="mailto:eurocrypt2021@iacr.org">
+           eurocrypt2021@iacr.org </a>  
           </p>
         </section>
 

@@ -49,7 +49,7 @@
         Invitation Letters
       </h3>
       <p>
-        Requests for invitation letters need to be received by <span class="editMe">2040</span>.
+        Requests for invitation letters need to be received by February 15, 2021.
       </p>
       <p>
         Conference attendees who require a visa will typically need an
