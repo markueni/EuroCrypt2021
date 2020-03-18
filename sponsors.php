@@ -22,7 +22,7 @@
       <div class="row">
         <section class="col-12">
           <p>
-            <span class="conf_name"><?php echo $META['shortName'];?></span> relies on sponsors to help ensure student participation. Please contact <a href="mailto:eurocrypt2021workshops@iacr.org">
+            <span class="conf_name"><?php echo $META['shortName'];?></span> relies on sponsors to help ensure student participation. Please contact <a href="mailto:eurocrypt2021sponsorship@iacr.org">
            eurocrypt2021sponsorship@iacr.org </a> if your company is interested in sponsoring this conference.
           </p>
         </section>

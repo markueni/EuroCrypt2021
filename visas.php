@@ -42,7 +42,8 @@
         for some individuals in the past. An interview at a consulate
         may also be required.
         
-        If any questions or problems, please contact name@namebis.org
+        If any questions or problems, please contact <a href="mailto:eurocrypt2021@iacr.org">
+           eurocrypt2021@iacr.org </a>
       </p>
       
       <h3 class="pageSubtitle mt-4">
